@@ -1,7 +1,7 @@
 ### Hi there, I'm Ritika Patel !  👋
 
 - 🔭 Pirsuing B.Tech in ECE from LNCT, Bhopal
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to work with some startups to improve my skills
 - 🥅 2021 Goals: Learn, Learn and Learn
 
